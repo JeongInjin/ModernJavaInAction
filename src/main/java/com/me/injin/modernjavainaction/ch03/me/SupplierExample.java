@@ -37,5 +37,4 @@ public class SupplierExample {
             System.out.println("Invalid");
         }
     }
-
 }
