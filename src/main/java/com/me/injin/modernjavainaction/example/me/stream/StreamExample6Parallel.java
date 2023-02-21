@@ -1,4 +1,4 @@
-package com.me.injin.modernjavainaction.ch04.me;
+package com.me.injin.modernjavainaction.example.me.stream;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

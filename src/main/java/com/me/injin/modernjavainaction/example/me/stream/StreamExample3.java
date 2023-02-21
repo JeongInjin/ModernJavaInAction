@@ -1,4 +1,4 @@
-package com.me.injin.modernjavainaction.ch04.me;
+package com.me.injin.modernjavainaction.example.me.stream;
 
 import java.util.Arrays;
 import java.util.List;
